@@ -66,10 +66,10 @@ h1 {
   color : #fff;
   font-family: 'Frank Ruhl Libre';
   font-weight:700;
-  font-size:3em;
+  font-size:2em;
   position: absolute;
   letter-spacing:1px;
   width:300px;
-  top:20%;
-  right:-190px;
+  top:30%;
+  right:80px;
 }
